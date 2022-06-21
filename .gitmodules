@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "obfuscatoR"]
+	path = obfuscatoR
+	url = https://github.com/edsandorf/obfuscator
+	shallow = true
+	registered = true
