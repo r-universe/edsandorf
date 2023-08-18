@@ -5,3 +5,6 @@
 [submodule "obfuscatoR"]
 	path = obfuscatoR
 	url = https://github.com/edsandorf/obfuscator
+[submodule "spdesign"]
+	path = spdesign
+	url = https://github.com/edsandorf/spdesign
